@@ -1,0 +1,122 @@
+PS C:\Users\hp\Desktop\Scraping-the-Twitter-profile-with-Python-Selenium-main> & C:/Users/hp/AppData/Local/Programs/Python/Python39/python.exe c:/Users/hp/Desktop/Scraping-the-Twitter-profile-with-Python-Selenium-main/fetch.py
+
+-------row: 1
+id :     1
+Bio :    Providing Entertainment & Travel to Commercial Radio. Reaching 28.9M weekly listeners. Winners of The Arqiva National Sales Team of the Year 2010, 2011 & 2016
+Following_Count :        460
+Followers_Count :        127
+Location :       London, England
+Website :        gtn.uk.com/index.php
+
+-------row: 2
+id :     2
+Bio :    Simple, reliable, private.
+Following_Count :        3
+Followers_Count :        5500000
+Location :       California
+Website :        N/A
+
+-------row: 3
+id :     3
+Bio :    Customs Broker
+Following_Count :        125
+Followers_Count :        33
+Location :       Florida, USA
+Website :        N/A
+
+-------row: 4
+id :     4
+Bio :    A & A Freight | Warehousing | Customs Brokerage | Helping people ship across borders.
+Following_Count :        3985
+Followers_Count :        664
+Location :       Worldwide
+Website :        aacb.com
+
+-------row: 5
+id :     5
+Bio :    A commercial glass and glazing company serving the window industry in New England since 1954.
+Following_Count :        89
+Followers_Count :        83
+Location :       Malden, MA
+Website :        aawindowproducts.com
+
+-------row: 6
+id :     6
+Bio :    A&B Kia is a Kia dealer in Benwood, WV. Stay connected to exceed expectations. Build strong relationships. Drive 
+the best with us.
+Following_Count :        338
+Followers_Count :        296
+Location :       Benwood, West Virginia
+Website :        aandbautosales.com
+
+-------row: 7
+id :     7
+Bio :    Industry leader in wholesale home decor, furniture, and garden, since 1993.
+Following_Count :        181
+Followers_Count :        363
+Location :       Rancho Cucamonga, CA
+Website :        abhomeinc.com
+
+-------row: 8
+id :     8
+Bio :    From large format black & white prints to the most sophisticated of digital color printing jobs, A & B can get the job done right.
+Following_Count :        125
+Followers_Count :        133
+Location :       Bentonville, AR
+Website :        abrepro.com
+
+-------row: 9
+id :     9
+Bio :    N/A
+Following_Count :        0
+Followers_Count :        0
+Location :       N/A
+Website :        N/A
+
+-------row: 10
+id :     10
+Bio :    A & C CHRISTOFI LTD is a fast growing professional services company based in Limassol, Cyprus. Our main Concern is your Business.
+Following_Count :        292
+Followers_Count :        90
+Location :       Cyprus
+Website :        acccyp.com
+
+-------row: 11
+id :     11
+Bio :    Used Clothing Distributor
+Following_Count :        0
+Followers_Count :        15
+Location :       Carteret
+Website :        aeclothing.net
+
+-------row: 12
+id :     12
+Bio :    N/A
+Following_Count :        0
+Followers_Count :        0
+Location :       N/A
+Website :        N/A
+
+-------row: 13
+id :     13
+Bio :    N/A
+Following_Count :        1
+Followers_Count :        36
+Location :       Boulder, CO USA
+Website :        ae-technologies.com
+
+-------row: 14
+id :     14
+Bio :    Create, manage and grow your business online with Wix. It’s more than just a website builder, it’s how your vision comes to life. For support:
+Following_Count :        3693
+Followers_Count :        418700
+Location :       We're everywhere!
+Website :        wix.com
+
+-------row: 15
+id :     15
+Bio :    A & G Insurance prides itself on being your local, full service, Independent Insurance Agency.
+Following_Count :        260
+Followers_Count :        46
+Location :       Connecticut
+Website :        aginsuranceinc.com
